@@ -1,0 +1,35 @@
+html {
+
+    margin: 2% 3%;
+    max-width: 1100px;
+    border:solid #333; 
+    border-radius: 10px;
+    background-color: mintcream;
+
+}
+
+h1 {
+    font: bold 32px Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    text-decoration: underline;
+}
+
+a {
+    font: bold 20px sans-serif;
+    text-decoration: double;
+}
+
+ul.nav {
+    list-style-type:none;
+}
+
+.main-image, .main-container {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
